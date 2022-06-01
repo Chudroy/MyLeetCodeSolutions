@@ -14,8 +14,6 @@ class Solution(object):
 
             hashmap[value] = i
 
-
-
 nums = [5, 3, 1, 9]
 target = 8
 

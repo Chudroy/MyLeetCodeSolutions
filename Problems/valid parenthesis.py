@@ -8,20 +8,21 @@ class Solution(object):
                    "}": "{",
                    "]": "["}
 
-        stack = [len(s)]
+        stack = []
+
         for i, val in enumerate(s):
 
-            print(i)
-            print(val in hashmap)
+            if val in hashmap and i != 0 and stack != []:
+                print(i, val, hashmap[val], stack[-1], hashmap[val] == stack[-1])
+                pass
 
-            if hashmap:
-                print(hashmap[val] == stack[i - 1])
-
-            if i != 0 and val in hashmap and hashmap[val] == stack[i - 1]:
+            if stack != [] and i != 0 and val in hashmap and hashmap[val] == stack[-1]:
                 stack.pop()
+            else:
+                stack.append(val)
 
-            stack.append(val)
+        print(stack == [])
 
 
-test_string = "{{}[][[[]]]}"
+test_string = "{}]"
 Solution.isValid(Solution, test_string)
