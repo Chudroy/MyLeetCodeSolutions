@@ -10,7 +10,7 @@ class Solution(object):
         for i, value in enumerate(nums):
             required_number = target - value
             if required_number in hashmap:
-                return [hashmap[reºquired_number], i]
+                return [hashmap[required_number], i]
 
             hashmap[value] = i
 
