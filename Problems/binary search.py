@@ -1,23 +1,28 @@
 from typing import *
-import math
+from math import *
+
+
+def recursive_search(arr, l, r, target):
+    pass
 
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        nums_length = len(nums)
+        left = 0
+        right = len(nums) - 1
 
-        left = nums[0:(nums_length // 2)]
-        right = nums[(nums_length // 2):]
+        while left != right:
+            mid = left + floor((right - left) / 2)
+            print(left, mid, right)
+            if target > nums[mid]:
+                left = mid + 1
+            else:
+                right = mid
 
-        if target in left:
-            return left.index(target)
-        elif target in right:
-            return right.index(target) + len(left)
-
-        return -1
+        return left if nums[left] == target else -1
 
 
-test_case = [5]
-test_target = 5
+test_case = [-5, -1, 0, 1]
+test_target =
 solution = Solution()
 print(solution.search(test_case, test_target))
