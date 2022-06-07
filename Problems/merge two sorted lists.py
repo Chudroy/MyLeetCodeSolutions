@@ -9,7 +9,7 @@ class LinkedList:
     def printList(self):
         temp = self.head
         while temp:
-            print(temp.val, end=" ")
+            print(temp.color, end=" ")
             temp = temp.next
 
     # Method to add element to list

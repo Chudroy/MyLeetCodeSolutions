@@ -23,6 +23,6 @@ class Solution:
 
 
 test_case = [-5, -1, 0, 1]
-test_target =
+test_target = -5
 solution = Solution()
 print(solution.search(test_case, test_target))
