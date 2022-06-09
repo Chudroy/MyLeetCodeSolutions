@@ -1,8 +1,8 @@
 from math import *
 
-
 # The isBadVersion API is already defined for you.
 def isBadVersion(version: int) -> bool:
+    pass
 
 
 class Solution:
