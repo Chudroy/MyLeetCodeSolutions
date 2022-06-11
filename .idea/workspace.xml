@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Ransom Note.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/climbing stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/minstack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/first bad version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/first bad version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/longest palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/longest palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.climbing stairs">
+  <component name="RunManager" selected="Python.minstack">
     <configuration name="Ransom Note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="implement queue using stacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="longest palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/implement queue using stacks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/longest palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximum subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="minstack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/maximum subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/minstack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minstack" />
+        <item itemvalue="Python.longest palindrome" />
         <item itemvalue="Python.climbing stairs" />
         <item itemvalue="Python.Ransom Note" />
         <item itemvalue="Python.first bad version" />
-        <item itemvalue="Python.implement queue using stacks" />
-        <item itemvalue="Python.maximum subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -237,22 +235,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="2539" height="284" key="GridCell.Tab.0.bottom" timestamp="1654777626219">
+    <state width="1258" height="234" key="GridCell.Tab.0.bottom" timestamp="1654947910215">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="284" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1654777626219" />
-    <state width="2539" height="284" key="GridCell.Tab.0.center" timestamp="1654777626218">
+    <state width="1258" height="234" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
+    <state width="1258" height="234" key="GridCell.Tab.0.center" timestamp="1654947910215">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="284" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1654777626218" />
-    <state width="2539" height="284" key="GridCell.Tab.0.left" timestamp="1654777626218">
+    <state width="1258" height="234" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
+    <state width="1258" height="234" key="GridCell.Tab.0.left" timestamp="1654947910215">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="284" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1654777626218" />
-    <state width="2539" height="284" key="GridCell.Tab.0.right" timestamp="1654777626219">
+    <state width="1258" height="234" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
+    <state width="1258" height="234" key="GridCell.Tab.0.right" timestamp="1654947910215">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="284" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1654777626219" />
+    <state width="1258" height="234" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
     <state width="2539" height="71" key="GridCell.Tab.1.bottom" timestamp="1654773741225">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
