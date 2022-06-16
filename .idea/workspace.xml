@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/minstack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Reverse linked List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/longest palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/longest palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.minstack">
+  <component name="RunManager" selected="Python.Reverse linked List">
     <configuration name="Ransom Note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +83,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Reverse linked List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Reverse linked List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="climbing stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +117,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/climbing stairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="first bad version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/first bad version.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse linked List" />
         <item itemvalue="Python.minstack" />
         <item itemvalue="Python.longest palindrome" />
         <item itemvalue="Python.climbing stairs" />
         <item itemvalue="Python.Ransom Note" />
-        <item itemvalue="Python.first bad version" />
       </list>
     </recent_temporary>
   </component>
@@ -235,38 +234,38 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="1258" height="234" key="GridCell.Tab.0.bottom" timestamp="1654947910215">
+    <state width="2539" height="286" key="GridCell.Tab.0.bottom" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1258" height="234" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
-    <state width="1258" height="234" key="GridCell.Tab.0.center" timestamp="1654947910215">
+    <state width="2539" height="286" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.0.center" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1258" height="234" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
-    <state width="1258" height="234" key="GridCell.Tab.0.left" timestamp="1654947910215">
+    <state width="2539" height="286" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.0.left" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1258" height="234" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
-    <state width="1258" height="234" key="GridCell.Tab.0.right" timestamp="1654947910215">
+    <state width="2539" height="286" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.0.right" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1258" height="234" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1654947910215" />
-    <state width="2539" height="71" key="GridCell.Tab.1.bottom" timestamp="1654773741225">
+    <state width="2539" height="286" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="71" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1654773741225" />
-    <state width="2539" height="71" key="GridCell.Tab.1.center" timestamp="1654773741225">
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.1.center" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="71" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1654773741225" />
-    <state width="2539" height="71" key="GridCell.Tab.1.left" timestamp="1654773741225">
+    <state width="2539" height="286" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.1.left" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="71" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1654773741225" />
-    <state width="2539" height="71" key="GridCell.Tab.1.right" timestamp="1654773741225">
+    <state width="2539" height="286" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right" timestamp="1655380517262">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="71" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1654773741225" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1655380517262" />
     <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654244318445">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -294,6 +293,11 @@
           <url>file://$PROJECT_DIR$/Problems/floodfill.py</url>
           <line>23</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/Reverse linked List.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
