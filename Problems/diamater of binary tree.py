@@ -10,35 +10,27 @@ class Height:
 
 
 def diameterOpt(root, height):
-    # to store height of left and right subtree
+    
     lh = Height()
     rh = Height()
 
-    # base condition- when binary tree is empty
     if root is None:
         height.h = 0
         return 0
 
-    # ldiameter --> diameter of left subtree
-    # rdiameter  --> diameter of right subtree
-
-    # height of left subtree and right subtree is obtained from lh and rh
-    # and returned value of function is stored in ldiameter and rdiameter
-
-    ldiameter = diameterOpt(root.left, lh)
-    rdiameter = diameterOpt(root.right, rh)
-
-    # height of tree will be max of left subtree
-    # height and right subtree height plus1
+    left_diameter = diameterOpt(root.left, lh)
+    right_diameter = diameterOpt(root.right, rh)
 
     height.h = max(lh.h, rh.h) + 1
 
-    # the DIAMETER is the max of the following
-    # 1)left diameter
-    # 2)right diameter
-    # 3)left height + right height + 1
+    '''
+    return the diameter. diameter of a node can be the maximum 
+    value between the left or right sub-tree's diameter, 
+    or the sum of left and right  sub-tree's height
+    '''
 
-    return max(lh.h + rh.h, max(ldiameter, rdiameter))
+    return max(lh.h + rh.h, max(left_diameter, right_diameter))
+
 
 
 def diameter(root):
