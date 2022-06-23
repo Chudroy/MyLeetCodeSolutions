@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/number of 1 bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/longest common prefix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/number of 1 bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/number of 1 bits.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.number of 1 bits">
+  <component name="RunManager" selected="Python.longest common prefix">
     <configuration name="backspace string compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find duplicate in array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="longest common prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/find duplicate in array" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/longest common prefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.longest common prefix" />
         <item itemvalue="Python.number of 1 bits" />
         <item itemvalue="Python.counting bits" />
         <item itemvalue="Python.backspace string compare" />
         <item itemvalue="Python.roman to int" />
-        <item itemvalue="Python.find duplicate in array" />
       </list>
     </recent_temporary>
   </component>
@@ -234,22 +235,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1655986414567">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1655989125884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1655986414567" />
-    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1655986414567">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1655989125884" />
+    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1655989125884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1655986414567" />
-    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1655986414567">
+    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1655989125884" />
+    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1655989125884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1655986414567" />
-    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1655986414567">
+    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1655989125884" />
+    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1655989125884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1655986414567" />
+    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1655989125884" />
     <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1655985225984">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
