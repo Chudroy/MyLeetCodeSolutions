@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/palindrome linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/move zeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,28 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.palindrome linked list">
-    <configuration name="counting bits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/counting bits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.move zeros">
     <configuration name="longest common prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="move zeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/move zeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.move zeros" />
         <item itemvalue="Python.palindrome linked list" />
         <item itemvalue="Python.single number" />
         <item itemvalue="Python.longest common prefix" />
         <item itemvalue="Python.number of 1 bits" />
-        <item itemvalue="Python.counting bits" />
       </list>
     </recent_temporary>
   </component>
@@ -234,38 +234,42 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1656068906639">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1656329008912">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656068906639" />
-    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1656068906638">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656329008912" />
+    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1656329008912">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656068906638" />
-    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1656068906638">
+    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656329008912" />
+    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1656329008912">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656068906638" />
-    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1656068906638">
+    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656329008912" />
+    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1656329008912">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656068906638" />
-    <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1656067230576">
+    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656329008912" />
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1656077585663">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656067230576" />
-    <state width="2539" height="286" key="GridCell.Tab.1.center" timestamp="1656067230576">
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656077585663" />
+    <state width="2539" height="286" key="GridCell.Tab.1.center" timestamp="1656077585662">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656067230576" />
-    <state width="2539" height="286" key="GridCell.Tab.1.left" timestamp="1656067230576">
+    <state width="2539" height="286" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656077585662" />
+    <state width="2539" height="286" key="GridCell.Tab.1.left" timestamp="1656077585662">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656067230576" />
-    <state width="2539" height="286" key="GridCell.Tab.1.right" timestamp="1656067230576">
+    <state width="2539" height="286" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656077585662" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right" timestamp="1656077585662">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656067230576" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656077585662" />
+    <state x="860" y="263" key="IDE.errors.dialog" timestamp="1656326979050">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="860" y="263" key="IDE.errors.dialog/0.0.2560.1040@0.0.2560.1040" timestamp="1656326979050" />
     <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1656065923120">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
