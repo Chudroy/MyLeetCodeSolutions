@@ -11,17 +11,19 @@ class TreeNode:
 
 
 class Solution:
+    def check_symmetry(self, left_node: Optional[TreeNode], right_node: Optional[TreeNode]) -> bool:
+        if not left_node and not right_node:
+            return left_node == right_node
+        elif left_node and right_node:
+            return left_node.val == right_node.val \
+                   and self.check_symmetry(left_node.left, right_node.right) \
+                   and self.check_symmetry(left_node.right, right_node.left)
+        else:
+            return False
+
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        def check_symmetry(left_node: Optional[TreeNode], right_node: Optional[TreeNode]) -> bool:
-            if not left_node or not right_node:
-                return left_node == right_node
 
-            if left_node.val != right_node.val:
-                return False
+        if not root:
+            return False
 
-            outer = check_symmetry(left_node.left, right_node.right)
-            inner = check_symmetry(left_node.right, right_node.left)
-
-            return inner and outer
-
-        return check_symmetry(root.left, root.right)
+        return self.check_symmetry(root.left, root.right)

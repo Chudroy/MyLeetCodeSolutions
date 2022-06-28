@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/symmetric tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/symmetric tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/symmetric tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
