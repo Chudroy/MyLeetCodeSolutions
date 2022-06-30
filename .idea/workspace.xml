@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/missing number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/symmetric tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/symmetric tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.move zeros">
+  <component name="RunManager" selected="Python.missing number">
     <configuration name="longest common prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +104,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="missing number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/missing number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="move zeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,27 +138,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/move zeros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="number of 1 bits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/number of 1 bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.missing number" />
         <item itemvalue="Python.move zeros" />
         <item itemvalue="Python.palindrome linked list" />
         <item itemvalue="Python.single number" />
         <item itemvalue="Python.longest common prefix" />
-        <item itemvalue="Python.number of 1 bits" />
       </list>
     </recent_temporary>
   </component>
@@ -234,22 +234,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1656332419920">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom" timestamp="1656585793657">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656332419920" />
-    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1656332419920">
+    <state width="2539" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1656585793657" />
+    <state width="2539" height="233" key="GridCell.Tab.0.center" timestamp="1656585793657">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656332419920" />
-    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1656332419920">
+    <state width="2539" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1656585793657" />
+    <state width="2539" height="233" key="GridCell.Tab.0.left" timestamp="1656585793657">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656332419920" />
-    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1656332419920">
+    <state width="2539" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1656585793657" />
+    <state width="2539" height="233" key="GridCell.Tab.0.right" timestamp="1656585793657">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656332419920" />
+    <state width="2539" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1656585793657" />
     <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1656077585663">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
