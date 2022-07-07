@@ -23,49 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03698c85-8fdd-4d96-9f13-bc7e5ae3fbab" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Problems/Easy/Squares of a Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Medium/Insert Interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Medium/01 Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Convert Sorted Array to Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Convert Sorted Array to Binary Search Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Palindrome Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Palindrome Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Ransom Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Ransom Note.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Reverse Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Reverse Bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Reverse linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Reverse linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Subtree of Another Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/Subtree of Another Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/add binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/add binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/backspace string compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/backspace string compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/binary search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/binary search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/climbing stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/climbing stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/counting bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/counting bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/diamater of binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/diamater of binary tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/find duplicate in array" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/find duplicate in array" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/first bad version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/first bad version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/floodfill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/floodfill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/implement queue using stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/implement queue using stacks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/inverse binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/inverse binary tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/linked list cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/linked list cycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/longest common prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/longest common prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/longest palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/longest palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/lowest common ancestor binary search tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/lowest common ancestor binary search tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/majority element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/majority element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/maxProfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/maxProfit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/maximum depth binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/maximum depth binary tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/maximum subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/maximum subarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/merge two sorted lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/merge two sorted lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/middle of a linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/middle of a linked list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/minstack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/minstack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/missing number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/missing number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/move zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/move zeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/number of 1 bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/number of 1 bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/palindrome linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/palindrome linked list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/roman to int.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/roman to int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/same tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/same tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/single number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/single number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/symmetric tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/symmetric tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/twosum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/valid palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/valid palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/valid parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Easy/valid parenthesis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +66,8 @@
       <recent name="E:\nicol\Desktop\PyCharm Projects\LeetCode\Problems\Easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Insert Interval">
-    <configuration name="Convert Sorted Array to Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01 Matrix">
+    <configuration name="01 Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\nicol\Desktop\PyCharm Projects\LeetCode\Problems\Easy\Convert Sorted Array to Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Medium/01 Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01 Matrix" />
         <item itemvalue="Python.Insert Interval" />
         <item itemvalue="Python.Squares of a Sorted Array" />
         <item itemvalue="Python.Subtree of Another Tree" />
         <item itemvalue="Python.Reverse Bits" />
-        <item itemvalue="Python.Convert Sorted Array to Binary Search Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -280,46 +239,46 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1654524441268" />
-    <state width="2539" height="232" key="GridCell.Tab.0.bottom" timestamp="1657105274756">
+    <state width="1256" height="343" key="GridCell.Tab.0.bottom" timestamp="1657194554993">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="232" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1657105274756" />
-    <state width="2539" height="232" key="GridCell.Tab.0.center" timestamp="1657105274755">
+    <state width="1256" height="343" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1657194554993" />
+    <state width="1256" height="343" key="GridCell.Tab.0.center" timestamp="1657194554992">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="232" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1657105274755" />
-    <state width="2539" height="232" key="GridCell.Tab.0.left" timestamp="1657105274755">
+    <state width="1256" height="343" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1657194554992" />
+    <state width="1256" height="343" key="GridCell.Tab.0.left" timestamp="1657194554992">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="232" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1657105274755" />
-    <state width="2539" height="232" key="GridCell.Tab.0.right" timestamp="1657105274755">
+    <state width="1256" height="343" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1657194554992" />
+    <state width="1256" height="343" key="GridCell.Tab.0.right" timestamp="1657194554993">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="232" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1657105274755" />
-    <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1657032110418">
+    <state width="1256" height="343" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1657194554993" />
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom" timestamp="1657192868822">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1657032110418" />
-    <state width="2539" height="286" key="GridCell.Tab.1.center" timestamp="1657032110418">
+    <state width="2539" height="286" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1657192868822" />
+    <state width="2539" height="286" key="GridCell.Tab.1.center" timestamp="1657192868822">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1657032110418" />
-    <state width="2539" height="286" key="GridCell.Tab.1.left" timestamp="1657032110418">
+    <state width="2539" height="286" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1657192868822" />
+    <state width="2539" height="286" key="GridCell.Tab.1.left" timestamp="1657192868822">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1657032110418" />
-    <state width="2539" height="286" key="GridCell.Tab.1.right" timestamp="1657032110418">
+    <state width="2539" height="286" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1657192868822" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right" timestamp="1657192868822">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="286" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1657032110418" />
+    <state width="2539" height="286" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1657192868822" />
     <state x="860" y="263" key="IDE.errors.dialog" timestamp="1656326979050">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="860" y="263" key="IDE.errors.dialog/0.0.2560.1040@0.0.2560.1040" timestamp="1656326979050" />
-    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1656065923120">
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1657192504118">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1656065923120" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1657192504118" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
